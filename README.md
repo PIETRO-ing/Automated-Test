@@ -1,4 +1,4 @@
-![Tests](https://github.com/PIETRO-ing/Automated-Test/actions/workflows/tests.yml/badge.svg)
+![Automated-Test](https://github.com/PIETRO-ing/Automated-Test/workflows/tests.yml/badge.svg)
 
 
 # Testing ADD_NUMBER project
