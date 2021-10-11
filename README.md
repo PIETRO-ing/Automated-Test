@@ -1,4 +1,4 @@
-![Automated-Test](https://github.com/PIETRO-ing/Automated-Test/actions/workflows/Python%20application/badge.svg)
+![Tests](https://github.com/PIETRO-ing/Automated-Test/actions/workflows/python-app.yml/badge.svg)
 
 
 # Testing ADD_NUMBER project
